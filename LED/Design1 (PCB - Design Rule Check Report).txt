@@ -1,0 +1,67 @@
+Design Rule Check Report
+------------------------
+
+Report File    : C:\Users\John\Dropbox\Git\DesignSpark\LED\Design1 (PCB - Design Rule Check Report).txt
+Report Written : Thursday, February 20, 2014
+Design Path    : C:\Users\John\Dropbox\Git\DesignSpark\LED\Design1.pcb
+Design Title   : 
+Created        : 20/02/2014 19:47:08
+Last Saved     : 20/02/2014 20:14:05
+Editing Time   : 28 min
+Units          : thou (precision 0)
+
+
+Results
+=======
+
+Single pin net N0001 on LED1.1 at 8200,10150
+Gap in Net "N0002" between (8300,10650) and (8064,10650) 
+    N0002.
+
+Number of errors found : 2
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks         Yes
+Pads and Vias  Yes
+Shapes         Yes
+Text           Yes
+Board          Yes
+Drills         Yes
+Components     Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                   Yes
+Drill Backoff                    Yes
+Silkscreen Overlap               Yes
+Copper Text In Board             Yes
+Min Track Width                  Yes
+Min Annular Ring                 Yes
+Min Paste Size                   Yes
+Vias In Pads                     Yes
+Unplated Vias                    Yes
+Unplated Pads With Inner Tracks  Yes
+
+
+Nets
+
+=====
+
+Net Completion                Yes
+Dangling Tracks               Yes
+Net Track Length Differences  No
+
+
+
+End Of Report.

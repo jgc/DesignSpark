@@ -1,0 +1,37 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report File    : C:\Users\John\Dropbox\Git\DesignSpark\LED\Design1 (PCB - Schematic and PCB Check Report).txt
+Report Written : Thursday, February 20, 2014
+Design Path    : C:\Users\John\Dropbox\Git\DesignSpark\LED\Design1.pcb
+Design Title   : 
+Created        : 20/02/2014 19:47:08
+Last Saved     : 20/02/2014 20:14:05
+Editing Time   : 33 min
+Units          : thou (precision 0)
+
+
+Checking integrity of Schematic "C:\Users\John\Dropbox\Git\DesignSpark\LED\Design1.sch" with PCB "C:\Users\John\Dropbox\Git\DesignSpark\LED\Design1.pcb"
+========================================================================================================================================================
+
+Ignoring PCB only pad SW1 on net "1,2"
+Ignoring PCB only pad SW1 on net "3,4"
+
+Disconnect Pin LED1-1 from Net "N0001"
+
+Delete Net "N0001"
+
+Add Component "Terminal1" [Terminal]
+Add Component "Terminal2" [Terminal]
+
+Add Net "N0006"
+Add Net "N0007"
+
+Connect Pin LED1-1 to Net "N0007"
+Connect Pin SW1-1,2 to Net "N0002"
+Connect Pin SW1-3,4 to Net "N0006"
+Connect Pin Terminal1-1 to Net "N0007"
+Connect Pin Terminal2-1 to Net "N0006"
+
+
+End Of Report.
